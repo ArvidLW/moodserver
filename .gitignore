@@ -1,0 +1,8 @@
+classes
+project
+target
+.idea
+debug*
+error*
+info*
+*.csv
